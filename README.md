@@ -1,3 +1,5 @@
+## FIXED YML FORMAT FOR DOCKER COMPOSE
+
 # redis-cluster 
 **Redis cluster with Docker Compose** 
 
